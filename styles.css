@@ -55,9 +55,9 @@
     background-color: #2980b9;
   }
   
-  .btn-delete {
-    background-color: #e74c3c;
-    color: white;
+  .delete-btn{
+    background-color: #3498db;
+    color: black;
     border: none;
     padding: 8px 15px;
     border-radius: 5px;
@@ -99,6 +99,7 @@
   
   .photo-info {
     padding: 15px;
+
   }
   
   .photo-name {
