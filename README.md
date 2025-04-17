@@ -2,12 +2,24 @@ Esta é uma API em construção, que será uma API desenvolvida para upload de i
 
 
 
-Funcionalidades:
--
+## Funcionalidades:
+
 * GET:/pictures: Retorna a lista de completa de imagens.
 * POST: adiciona uma imagem.
 * DELETE: remove uma imagem indesejada.
 
 
-Estrutura inicial do projeto
--
+## Estrutura do projeto
+
+- **multer.js**:
+- **PictureController.js**:
+- **Picture.js**:
+- **node_modules**:
+- **picture.js**:
+- **app.js**:
+- **db.js**:
+- **index.html**:
+- **script.js**:
+- **styles.css**:
+
+## Tecnologia Usadas:
