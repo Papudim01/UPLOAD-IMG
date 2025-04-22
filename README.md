@@ -64,12 +64,11 @@ Exemplo de resposta:
   npm install
 ```
 
-5.Acesse a aplicação em http://localhost:4000.
-
 3.Configure o arquivo .env com suas credenciais do MongoDB.
 
 4. Inicie o servidor:
 ```bash
   npm start
 ```
+5.Acesse a aplicação em:
 A API estará disponível em [http://localhost:4000](http://localhost:4000). 
