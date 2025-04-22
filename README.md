@@ -12,7 +12,7 @@ Esta é uma API em construção, que será uma API desenvolvida para upload de i
 ## Estrutura do projeto
 
 - **multer.js**:
-- **PictureController.js**:
+- **PictureController.js**:Lógica de controle para upload, busca e exclusão de imagens.
 - **Picture.js**:Modelo Mongoose para imagens.
 - **picture.js**:Rotas para gerenciar imagens.
 - **app.js**:Configuração do servidor Express e rotas.
