@@ -52,3 +52,4 @@ Esta é uma API em construção, que será uma API desenvolvida para upload de i
 ```bash
   npm start
 ```
+A API estará disponível em [http://localhost:4000](http://localhost:4000). 
