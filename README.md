@@ -27,6 +27,26 @@ Esta é uma API em construção, que será uma API desenvolvida para upload de i
 - **dotenv**:Biblioteca para carregar variáveis de ambiente a partir de um arquivo
 - **MongoDB Atlas**:Banco de dados NoSQL hospedado na nuvem.
 
+1. GET /pictures  
+Retorna a lista completa de imagens disponíveis.
+
+Exemplo de resposta:
+```json
+[
+    {
+        "_id": "664e8b472a4c2f1e8c3c56b9",
+        "filename": "foto1.jpg",
+        "path": "uploads/foto1.jpg",
+        "createdAt": "2025-04-20T10:23:45.678Z"
+    },
+    {
+        "_id": "664e8c152a4c2f1e8c3c56ba",
+        "filename": "foto2.png",
+        "path": "uploads/foto2.png",
+        "createdAt": "2025-04-20T10:25:10.345Z"
+    }
+]
+```
  ## Pré-requisitos
 - **Node.js instalado.**
 - **MongoDB configurado.**
